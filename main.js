@@ -1,3 +1,4 @@
+alert("welocome Waweru!");
 let addButton = document.getElementById("addToShopping");
 let container = document.getElementById("listcontainer");
 let inputField = document.getElementById("inputField");
